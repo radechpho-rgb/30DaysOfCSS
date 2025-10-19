@@ -12,7 +12,7 @@ body{
 
 .text{
   text-align: center;
-  color: #412050;
+  color: #58f94c;
   font-size: 100px;
   font-weight: bold;
   position: relative;
@@ -22,7 +22,7 @@ body{
 
 @keyframes text{
   0%{
-    color: #89E932;
+    color: #e124fe;
     margin-bottom: -40px;
   }
   30%{
